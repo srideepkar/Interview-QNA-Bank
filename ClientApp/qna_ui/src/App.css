@@ -1,0 +1,14 @@
+* {
+  margin: 1px;
+  padding: 1px;
+}
+.QuesCard{
+  margin: 5%;
+}
+.SingleCard{
+  margin: 2px;
+}
+.addQues{
+  max-width: 50%;
+  margin: auto;
+}
